@@ -1,28 +1,14 @@
 <h1 align="center">Grismaldo Bone Jr.</h1>
 
 <p align="center">
-  <strong>Desarrollador full-stack enfocado en productos web claros, utiles y bien construidos.</strong>
-</p>
-
-<p align="center">
-  <a href="https://github.com/grisbope?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/grisbope?style=for-the-badge&logo=github&label=Followers&color=111827">
-  </a>
-  <a href="https://github.com/grisbope?tab=repositories">
-    <img alt="GitHub repositories" src="https://img.shields.io/badge/Repos-Proyectos%20publicos-0e75b6?style=for-the-badge&logo=github">
-  </a>
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=grisbope&style=for-the-badge&color=0e75b6">
-</p>
-
-<p align="center">
-  <img alt="Typing banner" src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2600&pause=900&color=0E75B6&center=true&vCenter=true&width=720&lines=Construyendo+apps+web+limpias+y+rapidas;React+%2B+Vite+%2B+Tailwind+CSS;Productos+con+IA+que+resuelven+problemas+reales">
+  <strong>Emprendedor y Estudiante de Medicina.</strong>
 </p>
 
 ---
 
 ### Sobre mi
 
-Soy un desarrollador que disfruta convertir ideas en herramientas funcionales. Me enfoco en interfaces limpias, experiencias simples y codigo mantenible.
+Soy emprendedor, estudiante de Medicina y desarrollador. Disfruto convertir ideas en herramientas funcionales, con interfaces limpias, experiencias simples y codigo mantenible.
 
 - Construyo productos web con React, Vite y Tailwind CSS.
 - Integro flujos con IA cuando aportan valor real al usuario.
