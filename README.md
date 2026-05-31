@@ -29,26 +29,11 @@ Soy emprendedor, estudiante de Medicina y desarrollador. Disfruto convertir idea
   <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032">
 </p>
 
-### Proyecto destacado
-
-<a href="https://github.com/grisbope/smartflip">
-  <img align="center" alt="SmartFlip pinned card" src="https://github-readme-stats.vercel.app/api/pin/?username=grisbope&repo=smartflip&theme=github_dark&hide_border=true">
-</a>
-
-**SmartFlip** es una app educativa que convierte temas, apuntes o documentos en flashcards, quizzes y pruebas mixtas usando una interfaz simple con React, Vite y Tailwind CSS.
-
 ### En que estoy trabajando
 
 - Mejorar productos web con interfaces mas rapidas y pulidas.
 - Crear experiencias educativas con IA que sean utiles desde el primer uso.
 - Fortalecer buenas practicas de frontend, backend y despliegue.
-
-### Estadisticas
-
-<p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=grisbope&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github">
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=grisbope&layout=compact&theme=github_dark&hide_border=true">
-</p>
 
 ### Conecta conmigo
 
