@@ -2,7 +2,7 @@
 
 <p align="center">
   <strong>Emprendedor, Estudiante de Medicina y Desarrollador Web.</strong><br>
-  <sub>Guayaquil, Ecuador</sub>
+  <sub>Portoviejo, Ecuador</sub>
 </p>
 
 <p align="center">
