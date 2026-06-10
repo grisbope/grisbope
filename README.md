@@ -1,7 +1,18 @@
 <h1 align="center">Grismaldo Bone Jr. (Gris)</h1>
 
 <p align="center">
-  <strong>Emprendedor y Estudiante de Medicina.</strong>
+  <strong>Emprendedor, Estudiante de Medicina y Desarrollador Web.</strong><br>
+  <sub>Guayaquil, Ecuador</sub>
+</p>
+
+<p align="center">
+  <em>"Mis galaxias en mi universo"</em>
+</p>
+
+<p align="center">
+  <a href="https://grisbope.com">
+    <img alt="Website" src="https://img.shields.io/badge/grisbope.com-111827?style=for-the-badge&logo=googlechrome&logoColor=38BDF8">
+  </a>
 </p>
 
 ---
@@ -14,6 +25,7 @@ Soy emprendedor, estudiante de Medicina y desarrollador. Disfruto convertir idea
 - Integro flujos con IA cuando aportan valor real al usuario.
 - Me interesan las apps educativas, la automatizacion y las plataformas bien estructuradas.
 - Siempre estoy mejorando arquitectura, UI y calidad de entrega.
+- En [grisbope.com](https://grisbope.com) comparto mis proyectos, articulos y galeria de trabajos.
 
 ### Stack principal
 
@@ -31,15 +43,30 @@ Soy emprendedor, estudiante de Medicina y desarrollador. Disfruto convertir idea
 
 ### En que estoy trabajando
 
-- Mejorar productos web con interfaces mas rapidas y pulidas.
+- Mejorar [grisbope.com](https://grisbope.com), mi sitio personal con proyectos, articulos y galeria.
 - Crear experiencias educativas con IA que sean utiles desde el primer uso.
 - Fortalecer buenas practicas de frontend, backend y despliegue.
 
 ### Conecta conmigo
 
 <p>
+  <a href="https://grisbope.com">
+    <img alt="Website" src="https://img.shields.io/badge/Website-grisbope.com-111827?style=for-the-badge&logo=googlechrome&logoColor=38BDF8">
+  </a>
   <a href="https://github.com/grisbope">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-grisbope-111827?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://linkedin.com/in/grisbope">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-grisbope-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+  </a>
+  <a href="https://instagram.com/grisbope">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-grisbope-111827?style=for-the-badge&logo=instagram&logoColor=E4405F">
+  </a>
+  <a href="https://x.com/grisbope">
+    <img alt="X" src="https://img.shields.io/badge/X-grisbope-111827?style=for-the-badge&logo=x&logoColor=ffffff">
+  </a>
+  <a href="mailto:hello@grisbope.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-hello%40grisbope.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335">
   </a>
 </p>
 
