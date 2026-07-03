@@ -1,3 +1,32 @@
+<details>
+<summary></summary>
+
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Rethink+Sans:ital,wght@0,400..800;1,400..800&display=swap');
+
+:root {
+  --readme-font: 'Rethink Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+}
+
+body,
+.markdown-body,
+h1, h2, h3, h4, h5, h6,
+p, li, strong, em, sub, a,
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body p,
+.markdown-body li,
+.markdown-body strong,
+.markdown-body em,
+.markdown-body sub,
+.markdown-body a {
+  font-family: var(--readme-font) !important;
+}
+</style>
+
+</details>
+
 <h1 align="center">Grismaldo Bone (Gris)</h1>
 
 <p align="center">
@@ -17,15 +46,15 @@
 
 ---
 
-### Sobre mi
+### Sobre mí
 
-Soy emprendedor, estudiante de Medicina y desarrollador. Disfruto convertir ideas en herramientas funcionales, con interfaces limpias, experiencias simples y codigo mantenible.
+Soy emprendedor, estudiante de Medicina y desarrollador. Disfruto convertir ideas en herramientas funcionales, con interfaces limpias, experiencias simples y código mantenible.
 
 - Construyo productos web con React, Vite y Tailwind CSS.
 - Integro flujos con IA cuando aportan valor real al usuario.
-- Me interesan las apps educativas, la automatizacion y las plataformas bien estructuradas.
+- Me interesan las apps educativas, la automatización y las plataformas bien estructuradas.
 - Siempre estoy mejorando arquitectura, UI y calidad de entrega.
-- En [grisbope.com](https://grisbope.com) comparto mis proyectos, articulos y galeria de trabajos.
+- En [grisbope.com](https://grisbope.com) comparto mis proyectos, artículos y galería de trabajos.
 
 ### Stack principal
 
@@ -41,11 +70,11 @@ Soy emprendedor, estudiante de Medicina y desarrollador. Disfruto convertir idea
   <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032">
 </p>
 
-### En que estoy trabajando
+### En qué estoy trabajando
 
-- Mejorar [grisbope.com](https://grisbope.com), mi sitio personal con proyectos, articulos y galeria.
-- Crear experiencias educativas con IA que sean utiles desde el primer uso.
-- Fortalecer buenas practicas de frontend, backend y despliegue.
+- Mejorar [grisbope.com](https://grisbope.com), mi sitio personal con proyectos, artículos y galería.
+- Crear experiencias educativas con IA que sean útiles desde el primer uso.
+- Fortalecer buenas prácticas de frontend, backend y despliegue.
 
 ### Conecta conmigo
 
@@ -73,5 +102,5 @@ Soy emprendedor, estudiante de Medicina y desarrollador. Disfruto convertir idea
 ---
 
 <p align="center">
-  <strong>Construyendo, aprendiendo y lanzando mejores productos una version a la vez.</strong>
+  <strong>Construyendo, aprendiendo y lanzando mejores productos una versión a la vez.</strong>
 </p>
