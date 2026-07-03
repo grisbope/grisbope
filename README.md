@@ -1,4 +1,4 @@
-<h1 align="center">Grismaldo Bone Jr. (Gris)</h1>
+<h1 align="center">Grismaldo Bone (Gris)</h1>
 
 <p align="center">
   <strong>Emprendedor, Estudiante de Medicina y Desarrollador Web.</strong><br>
