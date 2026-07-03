@@ -1,32 +1,3 @@
-<details>
-<summary></summary>
-
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Rethink+Sans:ital,wght@0,400..800;1,400..800&display=swap');
-
-:root {
-  --readme-font: 'Rethink Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
-}
-
-body,
-.markdown-body,
-h1, h2, h3, h4, h5, h6,
-p, li, strong, em, sub, a,
-.markdown-body h1,
-.markdown-body h2,
-.markdown-body h3,
-.markdown-body p,
-.markdown-body li,
-.markdown-body strong,
-.markdown-body em,
-.markdown-body sub,
-.markdown-body a {
-  font-family: var(--readme-font) !important;
-}
-</style>
-
-</details>
-
 <h1 align="center">Grismaldo Bone (Gris)</h1>
 
 <p align="center">
@@ -42,6 +13,7 @@ p, li, strong, em, sub, a,
   <a href="https://grisbope.com">
     <img alt="Website" src="https://img.shields.io/badge/grisbope.com-111827?style=for-the-badge&logo=googlechrome&logoColor=38BDF8">
   </a>
+  <img alt="Grisbon LLC" src="https://img.shields.io/badge/Grisbon_LLC-111827?style=for-the-badge&logo=rocket&logoColor=38BDF8">
 </p>
 
 ---
@@ -72,6 +44,7 @@ Soy emprendedor, estudiante de Medicina y desarrollador. Disfruto convertir idea
 
 ### En qué estoy trabajando
 
+- Desarrollar **Grisbon LLC**, mi nueva startup fundada en Estados Unidos y Ecuador.
 - Mejorar [grisbope.com](https://grisbope.com), mi sitio personal con proyectos, artículos y galería.
 - Crear experiencias educativas con IA que sean útiles desde el primer uso.
 - Fortalecer buenas prácticas de frontend, backend y despliegue.
