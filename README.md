@@ -1,4 +1,4 @@
-<h1 align="center">Grismaldo Bone (Gris)</h1>
+<h1 align="center">Grismaldo Bope (Gris)</h1>
 
 <p align="center">
   <strong>Emprendedor, Estudiante de Medicina y Desarrollador Web.</strong><br>
@@ -10,10 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://grisbope.com">
-    <img alt="Website" src="https://img.shields.io/badge/grisbope.com-111827?style=for-the-badge&logo=googlechrome&logoColor=38BDF8">
+  <a href="https://grismaldo">
+    <img alt="Website" src="https://img.shields.io/badge/grismaldo.com-111827?style=for-the-badge&logo=googlechrome&logoColor=38BDF8">
   </a>
-  <img alt="Grisbon LLC" src="https://img.shields.io/badge/Grisbon_LLC-111827?style=for-the-badge&logo=rocket&logoColor=38BDF8">
+  <img alt="GrisBon LLC" src="https://img.shields.io/badge/GrisBon_LLC-111827?style=for-the-badge&logo=rocket&logoColor=38BDF8">
 </p>
 
 ---
@@ -45,20 +45,20 @@ Soy emprendedor, estudiante de Medicina y desarrollador. Disfruto convertir idea
 ### En qué estoy trabajando
 
 - Desarrollar **Grisbon LLC**, mi nueva startup fundada en Estados Unidos y Ecuador.
-- Mejorar [grisbope.com](https://grisbope.com), mi sitio personal con proyectos, artículos y galería.
+- Mejorar [grisbope.com](https://grismaldo.com), mi sitio personal con proyectos, artículos y galería.
 - Crear experiencias educativas con IA que sean útiles desde el primer uso.
 - Fortalecer buenas prácticas de frontend, backend y despliegue.
 
 ### Conecta conmigo
 
 <p>
-  <a href="https://grisbope.com">
+  <a href="https://grismaldo">
     <img alt="Website" src="https://img.shields.io/badge/Website-grisbope.com-111827?style=for-the-badge&logo=googlechrome&logoColor=38BDF8">
   </a>
-  <a href="https://github.com/grisbope">
+  <a href="https://github.com/grismaldo">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-grisbope-111827?style=for-the-badge&logo=github">
   </a>
-  <a href="https://linkedin.com/in/grisbope">
+  <a href="https://linkedin.com/in/grismaldo">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-grisbope-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
   </a>
   <a href="https://instagram.com/grisbope">
@@ -67,7 +67,7 @@ Soy emprendedor, estudiante de Medicina y desarrollador. Disfruto convertir idea
   <a href="https://x.com/grisbope">
     <img alt="X" src="https://img.shields.io/badge/X-grisbope-111827?style=for-the-badge&logo=x&logoColor=ffffff">
   </a>
-  <a href="mailto:hello@grisbope.com">
+  <a href="mailto:contact@grismaldo.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-hello%40grisbope.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335">
   </a>
 </p>
