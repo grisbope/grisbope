@@ -1,79 +1,50 @@
-<h1 align="center">Grismaldo Bope (Gris)</h1>
-
 <p align="center">
-  <strong>Emprendedor, Estudiante de Medicina y Desarrollador Web.</strong><br>
-  <sub>Portoviejo, Ecuador</sub>
+  <img src="assets/header.svg" alt="Grismaldo" width="100%">
 </p>
 
 <p align="center">
-  <em>"Mis galaxias en mi universo"</em>
+  <strong>Grismaldo Bope</strong> (Gris)<br>
+  Portoviejo, Ecuador<br>
+  <em>emprendedor, medicina, construye</em>
 </p>
 
 <p align="center">
-  <a href="https://grismaldo.com">
-    <img alt="Website" src="https://img.shields.io/badge/grismaldo.com-111827?style=for-the-badge&logo=googlechrome&logoColor=38BDF8">
-  </a>
-  <img alt="GrisBon LLC" src="https://img.shields.io/badge/GrisBon_LLC-111827?style=for-the-badge&logo=rocket&logoColor=38BDF8">
+  <sub>Entrepreneur, medicine, and the work of building.</sub>
 </p>
 
----
+<br>
 
-### Sobre mí
+Construyo productos, estudio Medicina y escribo sobre lo que quiero. El resto vive en [grismaldo.com](https://grismaldo.com).
 
-Soy emprendedor, estudiante de Medicina y desarrollador. Disfruto convertir ideas en herramientas funcionales, con interfaces limpias, experiencias simples y código mantenible.
+<br>
 
-- Construyo productos web con React, Vite y Tailwind CSS.
-- Integro flujos con IA cuando aportan valor real al usuario.
-- Me interesan las apps educativas, la automatización y las plataformas bien estructuradas.
-- Siempre estoy mejorando arquitectura, UI y calidad de entrega.
-- En [grisbope.com](https://grisbope.com) comparto mis proyectos, artículos y galería de trabajos.
+**Ahora**
 
-### Stack principal
+Estudiando — 8º semestre de Medicina  
+Construyendo — GrisBon y [SmartFlip](https://grismaldo.com/projects/smartflip)  
+Escribiendo — [artículos](https://grismaldo.com/blog)
 
-<p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6">
-  <img alt="React" src="https://img.shields.io/badge/React-111827?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img alt="Vite" src="https://img.shields.io/badge/Vite-111827?style=for-the-badge&logo=vite&logoColor=646CFF">
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-111827?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8">
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E">
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-111827?style=for-the-badge&logo=laravel&logoColor=FF2D20">
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-111827?style=for-the-badge&logo=mysql&logoColor=4479A1">
-  <img alt="Git" src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=F05032">
-</p>
+<br>
 
-### En qué estoy trabajando
+**GrisBon**  
+Desde donde construyo. Una super-app local para descubrir lo que hay cerca: restaurantes, tiendas, taxis, delivery y servicios.
 
-- Desarrollar **Grisbon LLC**, mi nueva startup fundada en Estados Unidos y Ecuador.
-- Mejorar [grisbope.com](https://grismaldo.com), mi sitio personal con proyectos, artículos y galería.
-- Crear experiencias educativas con IA que sean útiles desde el primer uso.
-- Fortalecer buenas prácticas de frontend, backend y despliegue.
+**SmartFlip**  
+App educativa que convierte temas, apuntes o documentos en flashcards, quizzes y pruebas con IA.
 
-### Conecta conmigo
+<br>
 
-<p>
-  <a href="https://grismaldo">
-    <img alt="Website" src="https://img.shields.io/badge/Website-grisbope.com-111827?style=for-the-badge&logo=googlechrome&logoColor=38BDF8">
-  </a>
-  <a href="https://github.com/grismaldo">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-grisbope-111827?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://linkedin.com/in/grismaldo">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-grisbope-111827?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
-  </a>
-  <a href="https://instagram.com/grisbope">
-    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-grisbope-111827?style=for-the-badge&logo=instagram&logoColor=E4405F">
-  </a>
-  <a href="https://x.com/grisbope">
-    <img alt="X" src="https://img.shields.io/badge/X-grisbope-111827?style=for-the-badge&logo=x&logoColor=ffffff">
-  </a>
-  <a href="mailto:contact@grismaldo.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-hello%40grisbope.com-111827?style=for-the-badge&logo=gmail&logoColor=EA4335">
-  </a>
-</p>
+**Correspondencia**
 
----
+Sitio — [grismaldo.com](https://grismaldo.com)  
+GitHub — [grismaldo](https://github.com/grismaldo)  
+LinkedIn — [grisbope](https://www.linkedin.com/in/grisbope)  
+Instagram — [@grisbope](https://instagram.com/grisbope)  
+X — [@grisbope](https://x.com/grisbope)  
+Correo — [contact@grismaldo.com](mailto:contact@grismaldo.com)
+
+<br>
 
 <p align="center">
-  <strong>Construyendo, aprendiendo y lanzando mejores productos una versión a la vez.</strong>
+  <em>Mis galaxias en mi universo</em>
 </p>
